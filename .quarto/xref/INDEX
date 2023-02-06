@@ -16,5 +16,11 @@
   },
   "OA blog rstudio.qmd": {
     "OA blog rstudio.html": "a230790b"
+  },
+  "posts/second new post/index.qmd": {
+    "index.html": "3921121b"
+  },
+  "posts/second new post/Some notes.qmd": {
+    "Some notes.html": "2db9ad70"
   }
 }

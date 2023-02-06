@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "OA blog",
     "section": "",
-    "text": "A Simple Blog\n\n\n\n\n\n\n\nMy thoughts\n\n\n\n\n\n\n\n\n\n\n\nFeb 26, 2055\n\n\nOmar Ali\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 2, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "A Simple Blog\n\n\n\n\n\n\n\nMy thoughts\n\n\n\n\n\n\n\n\n\n\n\nFeb 26, 2055\n\n\nOmar Ali\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Simple Blog\n\n\n\n\n\n\n\nMy Notes\n\n\n\n\n\n\n\n\n\n\n\nFeb 26, 2055\n\n\nOmar Ali\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 2, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "OA blog rstudio.html",
@@ -33,6 +33,13 @@
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/second new post/Some notes.html",
+    "href": "posts/second new post/Some notes.html",
+    "title": "A Simple Blog",
+    "section": "",
+    "text": "a b c"
   },
   {
     "objectID": "posts/welcome/index.html",

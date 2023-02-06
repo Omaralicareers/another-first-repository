@@ -1,0 +1,10 @@
+---
+title: "A Simple Blog"
+author: "Omar Ali"
+date: "2055-02-26"
+categories: [My Notes]
+image: ""
+---
+
+## The Notes
+a b c
