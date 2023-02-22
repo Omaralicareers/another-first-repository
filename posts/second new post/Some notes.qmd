@@ -26,15 +26,15 @@ as.numeric(c("1","2","3")) converts those "texts" back into numerical numbers so
 
 rep(0,11) means 0 is made 11 times
 
-```{r} 
+```{r}
 
 "ctrl+alt+I makes this little section"
 
 ```
+
 ```{r}
 5+5
 5+2
 
 
 ```
-
