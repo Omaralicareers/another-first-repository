@@ -1,12 +1,12 @@
 {
-    "id": "C2121C9E",
+    "id": "965684BC",
     "path": "~/psyc crumplab data analytics/another-first-repository/posts/second new post/Some notes.qmd",
     "project_path": "posts/second new post/Some notes.qmd",
     "type": "quarto_markdown",
-    "hash": "450378469",
+    "hash": "42420040",
     "contents": "",
-    "dirty": false,
-    "created": 1675829910345.0,
+    "dirty": true,
+    "created": 1677040421364.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "1,27",
-        "scrollLine": "0",
-        "rmdVisualModeLocation": "2:0"
+        "cursorPosition": "36,0",
+        "scrollLine": "33",
+        "rmdVisualModeLocation": "607:442"
     },
     "folds": "",
-    "lastKnownWriteTime": 1675872271,
+    "lastKnownWriteTime": 1677041027,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1675872271267,
+    "last_content_update": 1677041254266,
     "read_only": false,
     "read_only_alternatives": []
 }

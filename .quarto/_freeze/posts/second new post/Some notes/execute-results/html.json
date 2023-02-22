@@ -1,0 +1,14 @@
+{
+  "hash": "4818892942eb48507b147ff0d034880c",
+  "result": {
+    "markdown": "---\ntitle: \"Some tips and Notes\"\nauthor: \"Daffy Duck\"\ndate: \"2055-02-26\"\ncategories: [My Notes]\nimage: \"daffy-duck-writting-notes.gif\"\n---\n\n\n## The Notes\n\n*Some of my notes that I will be updating here and there in case I forget anything*\n\nuse \\## in front of words to make bold title\n\nUsing \\*\\* with any text in between will make *italicized*\n\nDouble it and it makes texts **bold**\n\nTriple is and it makes texts ***bold and italicized***\n\nQuadruple it and is doesnt make anything \\*\\*\\*\\*see\\*\\*\\*\\*\n\n1:5 gives u every number between 1 and 5\n\nas.numeric(c(\"1\",\"2\",\"3\")) converts those \"texts\" back into numerical numbers so \"1\" will be a text and 1 will be a numeric\n\nrep(0,11) means 0 is made 11 times\n\n\n::: {.cell}\n\n```{.r .cell-code}\n\"ctrl+alt+I makes this little section\"\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"ctrl+alt+I makes this little section\"\n```\n:::\n:::\n\n::: {.cell}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e2230fc5d424c45186718cf4bb171691",
+  "result": {
+    "markdown": "---\ntitle: \"week 3 post\"\nauthor: \"oa\"\n---\n\n\n#Testing Headers\n\n1.  Be able to make a new .qmd document I am able to make a .qmd document, pretty easy.\n\n2.  Be able to render a .qmd document\n\n3.  Explain the difference between the source editor view and visual editor view in Rstudio. The source is plain text while the visual interprets the plain text as a formatted. For example \\<www.google.com\\>\n\n4.  Be able to insert simple markdown plain text (headers, lists, paragraphs), and render the document.\n\n5.  Be aware of resources to help you learn more about markdown options.\n\n6.  Be able to insert an R code chunk, and show the output in the rendered document.\n\n-   macro for quick insert\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\n\n```default\nalt+ctrl+i\n```\n\n7.  Running R code chunks in a qmd\n\n-   pressing play\n-   copy/paste into console\n-   highlight then command-enter (mac)\n-   precedence issues (first to last)\n\n8.  Be aware of R code chunk options, and how to use eval, messages, error, warning, and echo.\n\n9.  Be able to set code chunk options per chunk, and/or for the whole document. Understand rules for precedence (which options will apply if both are set.)\n\n10. Write inline r code.\n\n11. Explain how the rendering environment is different from the Rstudio environment.\n\n12. Be aware of more advanced quarto options for html documents, and try some of the options.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

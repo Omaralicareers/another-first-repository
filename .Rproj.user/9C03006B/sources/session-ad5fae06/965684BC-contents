@@ -1,0 +1,40 @@
+---
+title: "Some tips and Notes"
+author: "Daffy Duck"
+date: "2055-02-26"
+categories: [My Notes]
+image: "daffy-duck-writting-notes.gif"
+---
+
+## The Notes
+
+*Some of my notes that I will be updating here and there in case I forget anything*
+
+use \## in front of words to make bold title
+
+Using \*\* with any text in between will make *italicized*
+
+Double it and it makes texts **bold**
+
+Triple is and it makes texts ***bold and italicized***
+
+Quadruple it and is doesnt make anything \*\*\*\*see\*\*\*\*
+
+1:5 gives u every number between 1 and 5
+
+as.numeric(c("1","2","3")) converts those "texts" back into numerical numbers so "1" will be a text and 1 will be a numeric
+
+rep(0,11) means 0 is made 11 times
+
+```{r} 
+
+"ctrl+alt+I makes this little section"
+
+```
+```{r}
+5+5
+5+2
+
+
+```
+
