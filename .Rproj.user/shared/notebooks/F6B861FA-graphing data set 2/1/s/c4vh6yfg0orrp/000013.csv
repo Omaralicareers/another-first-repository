@@ -1,0 +1,6 @@
+"0",""
+"0","library(rio)"
+"0",""
+"0","import(file = ""data.zip/demo.tsv"")"
+"2","Error in import(file = ""data.zip/demo.tsv"") : No such file
+"

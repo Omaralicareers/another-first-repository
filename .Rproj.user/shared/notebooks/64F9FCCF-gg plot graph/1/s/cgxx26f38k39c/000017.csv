@@ -1,0 +1,15 @@
+"0",""
+"0","survey_data <- read_csv(""https://psyteachr.github.io/ads-v2/data/survey_data.csv"")"
+"2","[1mRows: [22m[34m707[39m [1mColumns: [22m[34m7[39m"
+"2","[36m──[39m [1mColumn specification[22m [36m─────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m  (3): caller_id, employee_id, issue_category
+[32mdbl[39m  (3): wait_time, call_time, satisfaction
+[34mdttm[39m (1): call_start"
+"2","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message."
+"0","library(tidyverse)"
+"0","library(ggplot2)"
+"0",""
+"0","ggplot(data = survey_data)"

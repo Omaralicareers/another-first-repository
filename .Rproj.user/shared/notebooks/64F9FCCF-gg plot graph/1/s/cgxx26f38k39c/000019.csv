@@ -1,0 +1,6 @@
+"0",""
+"0","# set up the plot with mapping"
+"0","ggplot("
+"0","  data = survey_data, "
+"0","  mapping = aes(x = wait_time, y = call_time)"
+"0",")"

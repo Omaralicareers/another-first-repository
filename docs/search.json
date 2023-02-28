@@ -46,7 +46,7 @@
     "href": "posts/second new post/Some notes.html",
     "title": "Some tips and Notes",
     "section": "",
-    "text": "Some of my notes that I will be updating here and there in case I forget anything\nuse ## in front of words to make bold title\nUsing ** with any text in between will make italicized\nDouble it and it makes texts bold\nTriple is and it makes texts bold and italicized\nQuadruple it and is doesnt make anything ****see****\n1:5 gives u every number between 1 and 5\nas.numeric(c(“1”,“2”,“3”)) converts those “texts” back into numerical numbers so “1” will be a text and 1 will be a numeric\nrep(0,11) means 0 is made 11 times\n\n\"ctrl+alt+I makes this little section\"\n\n[1] \"ctrl+alt+I makes this little section\""
+    "text": "Some of my notes that I will be updating here and there in case I forget anything\nuse ## in front of words to make bold title\nUsing ** with any text in between will make italicized\nDouble it and it makes texts bold\nTriple is and it makes texts bold and italicized\nQuadruple it and is doesnt make anything ****see****\n1:5 gives u every number between 1 and 5\nas.numeric(c(“1”,“2”,“3”)) converts those “texts” back into numerical numbers so “1” will be a text and 1 will be a numeric\nrep(0,11) means 0 is made 11 times\n\n\"ctrl+alt+I makes this little section\"\n\n[1] \"ctrl+alt+I makes this little section\"\n\n\n\n5+5\n\n[1] 10\n\n5+2\n\n[1] 7\n\n\"i can assign numbers with words/letters\"\n\n[1] \"i can assign numbers with words/letters\"\n\nb<-1\n\n\"5 random number between 1-0\"\n\n[1] \"5 random number between 1-0\"\n\nrandom=runif(5,0,1)"
   },
   {
     "objectID": "posts/welcome/index.html",

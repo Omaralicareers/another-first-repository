@@ -1,0 +1,3 @@
+"0",""
+"0","ggplot(survey_data, aes(x = wait_time, y = call_time)) +"
+"0","  geom_point() # scatterplot"
