@@ -9,7 +9,7 @@ author: "oa"
 
 2.  Be able to render a .qmd document
 
-3.  Explain the difference between the source editor view and visual editor view in Rstudio. The source is plain text while the visual interprets the plain text as a formatted. For example \<www.google.com\>
+3.  Explain the difference between the source editor view and visual editor view in Rstudio. The source is plain text while the visual interprets the plain text as a formatted. For example <www.google.com
 
 4.  Be able to insert simple markdown plain text (headers, lists, paragraphs), and render the document.
 
@@ -23,10 +23,6 @@ author: "oa"
 
 1+1
 
-```
-
-``` default
-alt+ctrl+i
 ```
 
 7.  Running R code chunks in a qmd
