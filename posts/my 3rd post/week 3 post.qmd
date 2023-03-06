@@ -1,28 +1,49 @@
 ---
 title: "week 3 post"
-author: "oa"
+author: "Omar Ali"
+format:
+  html:
+    toc: true
+    toc-depth: 2
 ---
 
-#Testing Headers
+## Testing Headers
+
+Some questions
 
 1.  Be able to make a new .qmd document I am able to make a .qmd document, pretty easy.
 
+I can create a new .qmd document by clicking the green plus icon under the word file on top left.
+
 2.  Be able to render a .qmd document
 
-3.  Explain the difference between the source editor view and visual editor view in Rstudio. The source is plain text while the visual interprets the plain text as a formatted. For example <www.google.com
+Yep just press render or render website.
+
+3.  Explain the difference between the source editor view and visual editor view in Rstudio.
+
+Source view shows everything as plain text in markdown which can be rendered in visual to display other forms of format. For example in visual this clickable link [Google](https://www.google.com) is actually (https://www.google.com) in source view with "\[Google\]" in front of the Parenthesis.
 
 4.  Be able to insert simple markdown plain text (headers, lists, paragraphs), and render the document.
 
+# here is another header :D
+
+And here is some text
+
+
 5.  Be aware of resources to help you learn more about markdown options.
+
+I can go to this [link](https://www.quarto.org) that show the basics or I can click packages and click the package I want to learn more about and it will open up a help section for that package.
 
 6.  Be able to insert an R code chunk, and show the output in the rendered document.
 
--   macro for quick insert
+-   macro for quick insert for my pc its Ctrl+alt+I
 
 ```{r}
 
 1+1
-
+20+10
+5+7
+22/7
 ```
 
 7.  Running R code chunks in a qmd
@@ -32,12 +53,47 @@ author: "oa"
 -   highlight then command-enter (mac)
 -   precedence issues (first to last)
 
+ yep just ran through it all on question 6 by pressing play and it running all in sequence and being able to run the same commands code in console
+
 8.  Be aware of R code chunk options, and how to use eval, messages, error, warning, and echo.
+
+```{r}
+#| eval: true
+#| echo: true
+#| error: true
+hist(mtcars$mpg)
+
+Error+37
+
+```
+
+```{r}
+#| message: false
+#| warning: false
+library(tidyr)
+```
+
 
 9.  Be able to set code chunk options per chunk, and/or for the whole document. Understand rules for precedence (which options will apply if both are set.)
 
+Yes Just use "execute:" on the top of this page and you can set options for the whole page.
+
 10. Write inline r code.
+
+`r  7+22`
+
+```{r}
+a <- 7
+b <- 22
+
+c <- b/a
+```
+
 
 11. Explain how the rendering environment is different from the Rstudio environment.
 
+In rstudio Environment it holds temporary data in a separate section which the rendering wont acknowledge until the code is executed. The end result int the blog will still be what is in code and not any other alterations in the environment. 
+
 12. Be aware of more advanced quarto options for html documents, and try some of the options.
+
+I have tried one of the options and it made my headers apear on the right side of the blog.

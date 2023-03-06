@@ -1,16 +1,58 @@
 [
   {
-    "objectID": "posts/my 3rd post/week 3 post.html",
-    "href": "posts/my 3rd post/week 3 post.html",
-    "title": "week 3 post",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "#Testing Headers\n\nBe able to make a new .qmd document I am able to make a .qmd document, pretty easy.\nBe able to render a .qmd document\nExplain the difference between the source editor view and visual editor view in Rstudio. The source is plain text while the visual interprets the plain text as a formatted. For example <www.google.com\nBe able to insert simple markdown plain text (headers, lists, paragraphs), and render the document.\nBe aware of resources to help you learn more about markdown options.\nBe able to insert an R code chunk, and show the output in the rendered document.\n\n\nmacro for quick insert\n\n\n1+1\n\n[1] 2\n\n\n\nRunning R code chunks in a qmd\n\n\npressing play\ncopy/paste into console\nhighlight then command-enter (mac)\nprecedence issues (first to last)\n\n\nBe aware of R code chunk options, and how to use eval, messages, error, warning, and echo.\nBe able to set code chunk options per chunk, and/or for the whole document. Understand rules for precedence (which options will apply if both are set.)\nWrite inline r code.\nExplain how the rendering environment is different from the Rstudio environment.\nBe aware of more advanced quarto options for html documents, and try some of the options."
+    "text": "About this blog"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "OA blog",
     "section": "",
-    "text": "Dates and Times\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\ndata frame for starw\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\ntesting playground\n\n\n\n\n\n\n\n\n\n\n\n\noa\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nweek 3 post\n\n\n\n\n\n\n\n\n\n\n\n\noa\n\n\n\n\n\n\n  \n\n\n\n\nA Simple Blog\n\n\n\n\n\n\n\nMy thoughts\n\n\n\n\n\n\n\n\n\n\n\nFeb 26, 2055\n\n\nOmar Ali\n\n\n\n\n\n\n  \n\n\n\n\nSome tips and Notes\n\n\n\n\n\n\n\nMy Notes\n\n\n\n\n\n\n\n\n\n\n\nFeb 26, 2055\n\n\nDaffy Duck\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 2, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "week 3 post\n\n\n\n\n\n\n\n\n\n\n\n\nOmar Ali\n\n\n\n\n\n\n  \n\n\n\n\nA Simple Blog\n\n\n\n\n\n\n\nMy thoughts\n\n\n\n\n\n\n\n\n\n\n\nFeb 26, 2055\n\n\nOmar Ali\n\n\n\n\n\n\n  \n\n\n\n\nSome tips and Notes\n\n\n\n\n\n\n\nMy Notes\n\n\n\n\n\n\n\n\n\n\n\nFeb 26, 2055\n\n\nDaffy Duck\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 2, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "OA blog rstudio.html",
+    "href": "OA blog rstudio.html",
+    "title": "A Simple Blog",
+    "section": "",
+    "text": "My initial thoughts.\nI followed the steps as were shown on the video on https://www.crumplab.com but I ran into a problem on downloading a package that wasnt on my computer despite all the updates.\nNo worries, I got it downloaded when I searched it up on pacages and it was there and the quarto blog popped up and it works.\nI edited the blog and made my own post and wondered if gifs are possible since I think they’re considered an image. I am very glad that it works. I also didnt expect that if I typed the actual title of the gif that I gave it would actually show but, it did and even though its small I was very excited about it. Now im wondering if emojis work."
+  },
+  {
+    "objectID": "posts/my 3rd post/week 3 post.html",
+    "href": "posts/my 3rd post/week 3 post.html",
+    "title": "week 3 post",
+    "section": "",
+    "text": "Some questions\n\nBe able to make a new .qmd document I am able to make a .qmd document, pretty easy.\n\nI can create a new .qmd document by clicking the green plus icon under the word file on top left.\n\nBe able to render a .qmd document\n\nYep just press render or render website.\n\nExplain the difference between the source editor view and visual editor view in Rstudio.\n\nSource view shows everything as plain text in markdown which can be rendered in visual to display other forms of format. For example in visual this clickable link Google is actually (https://www.google.com) in source view with “[Google]” in front of the Parenthesis.\n\nBe able to insert simple markdown plain text (headers, lists, paragraphs), and render the document."
+  },
+  {
+    "objectID": "posts/my new post/index.html",
+    "href": "posts/my new post/index.html",
+    "title": "A Simple Blog",
+    "section": "",
+    "text": "My initial thoughts.\nI followed the steps as were shown on the video on https://www.crumplab.com but I ran into a problem on downloading a package that wasnt on my computer despite all the updates.\nNo worries, I got it downloaded when I searched it up on pacages and it was there and the quarto blog popped up and it works.\nI edited the blog and made my own post and wondered if gifs are possible since I think they’re considered an image. I am very glad that it works. I also didnt expect that if I typed the actual title of the gif that I gave it would actually show but, it did and even though its small I was very excited about it. Now im wondering if emojis work."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/second new post/Some notes.html",
+    "href": "posts/second new post/Some notes.html",
+    "title": "Some tips and Notes",
+    "section": "",
+    "text": "Some of my notes that I will be updating here and there in case I forget anything\nuse ## in front of words to make bold title\nUsing ** with any text in between will make italicized\nDouble it and it makes texts bold\nTriple is and it makes texts bold and italicized\nQuadruple it and is doesnt make anything ****see****\n1:5 gives u every number between 1 and 5\nas.numeric(c(“1”,“2”,“3”)) converts those “texts” back into numerical numbers so “1” will be a text and 1 will be a numeric\nrep(0,11) means 0 is made 11 times\n\n\"ctrl+alt+I makes this little section\"\n\n[1] \"ctrl+alt+I makes this little section\"\n\n\n\n5+5\n\n[1] 10\n\n5+2\n\n[1] 7\n\n\"i can assign numbers with words/letters\"\n\n[1] \"i can assign numbers with words/letters\"\n\nb<-1\n\n\"5 random number between 1-0\"\n\n[1] \"5 random number between 1-0\"\n\nrandom=runif(5,0,1)"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]
